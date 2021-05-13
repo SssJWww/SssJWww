@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SssJWww
 - 👀 I’m interested in something interest
-- 🌱 I’m currently learning the examnation of postgraduate
-- 💞️ I’m looking to collaborate on Java project
+- 🌱 I’m currently learning the examination of postgraduate
+- 💞️ I’m looking to collaborate a Java Profject
 - 📫 How to reach me 
 
 <!---
